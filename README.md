@@ -24,5 +24,5 @@ pre-commit install
 
 - Make sure to replace the secret key value in the settings.py file
 - Also connect up the db you plan to use in the settings.py file
-- Feel free to rename the folder django_project to a more descriptive name
+- Feel free to rename the folder django_project to a more descriptive name, but change all occurances of that text string in the settings.py file to match the new title
 - By default on get and post methods are allowed, you can greenlight other methods by adding them in the function.json config
